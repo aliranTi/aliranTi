@@ -3,8 +3,16 @@
 Bem-vindo(a) ao meu perfil no GitHub! Sou um entusiasta da programação e tenho paixão por várias linguagens de programação.
 
 ## Linguagens Favoritas 🚀
-- **C** - Foi uma das minhas primeiras linguagens e tem um lugar especial no meu coração.
-- **JavaScript** - Ainda aprendendo como funciona e planejando focar na parte de frontend.
+<div style="display:inline-block">
+  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+- <b>C</b> - Foi uma das minhas primeiras linguagens e tem um lugar especial no meu coração. <br>
+  <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+- <b>JavaScript</b> - Ainda aprendendo como funciona e planejando focar na parte de frontend. <br>
+  <img align="center" alt="PYTHON" height="40" width="35"  src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+- <b>Python</b> - Uma linguagem bem legal, uso bastante para testes e experimentos
+          
+</div>
+
 
 ## Projetos 🛠️
 
