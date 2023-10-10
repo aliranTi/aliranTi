@@ -15,4 +15,6 @@
 <img alt="C" src="https://img.shields.io/badge/C-7F00FF?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-7F00FF?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="VSCODE" src="https://img.shields.io/badge/VSCode-7F00FF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>  
+
+<br>![aliranTi GitHub stats](https://github-readme-stats.vercel.app/api?username=aliranTi&show_icons=true&theme=purple)
   
