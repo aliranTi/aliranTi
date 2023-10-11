@@ -20,6 +20,9 @@ here is my social medias and my email for contact</p>
 <img alt="VSCODE" src="https://img.shields.io/badge/VSCode-7F00FF?style=for-the-badge&logo=visual%20studio%20code&logoColor=black"/>  
 
 <br> ![aliranTi GitHub stats](https://github-readme-stats.vercel.app/api?username=aliranTi&show_icons=true&theme=midnight-purple)
-  
+
+<h1>Formation</h1>
+
+<p>I attend college for information technology at UFERSA</p>
 </div>
 </body>
