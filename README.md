@@ -20,4 +20,4 @@ Here is my social media and my email for contact</p>
 <img alt="Python" src="https://img.shields.io/badge/python-7F00FF?style=for-the-badge&logo=python&logoColor=black"/>
 <img alt="VSCODE" src="https://img.shields.io/badge/VSCode-7F00FF?style=for-the-badge&logo=visualstudio&logoColor=black"/>  
 
-<br> ![aliranTi GitHub stats](https://github-readme-stats.vercel.app/api?username=aliranTi&show_icons=true&theme=midnight-purple)
+<br> ![aliranTi GitHub stats](https://github-readme-stats.vercel.app/api?username=aliranTi&show_icons=true&theme=midnight-purple) ![AliranTi Github Languages](https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&theme=midnight-purple&hide_border=true&username=AliranTi&hide=jupyter%20notebook)
