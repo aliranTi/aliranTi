@@ -9,7 +9,6 @@ Here is my social media and my email for contact</p>
 [![Instagram](https://img.shields.io/badge/Instagram-7F00FF?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/alirankkjk/)
 [![Email](https://img.shields.io/badge/Gmail-7F00FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:antoniojoaquim267@gmail.com)
 
-
   
 <h1><font color="red">Technologies and tools</font></h1>
 
